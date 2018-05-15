@@ -12,6 +12,6 @@ def trunc(x):
 
 num = float(input("실수:"))
 
-print(ceil(num))
-print(floor(num))
-print(trunc(num))
+print("3.14 :",ceil(num))
+print("3.14 :",floor(num))
+print("3.14 :",trunc(num))
