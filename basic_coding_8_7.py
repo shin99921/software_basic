@@ -12,6 +12,7 @@ while(1):
 
     if eng in engkor_dict:
         print(eng,":",engkor_dict[eng])
+	continue
         
     else:
         print(eng,"단어가 사전에 없습니다, 사전에 추가합니다.")
